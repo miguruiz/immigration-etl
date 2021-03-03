@@ -1,0 +1,8 @@
+Please include the following files here:
+
+-rw-r--r-- 1 root root   6021739 Mar 15  2019 airport-codes_csv.csv
+-rw-r--r-- 1 root root 532830464 Mar  3 09:38 GlobalLandTemperaturesByCity.csv
+-rw-r--r-- 1 root root     35143 Mar 15  2019 I94_SAS_Labels_Descriptions.SAS
+-rw-r--r-- 1 root root    144885 Mar 15  2019 immigration_data_sample.csv
+drwxr-xr-x 3 root root      4096 Mar  3 09:41 sas_data/
+-rw-r--r-- 1 root root    251346 Mar 15  2019 us-cities-demographics.csv
